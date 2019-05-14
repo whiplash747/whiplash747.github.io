@@ -1,0 +1,16 @@
+body{
+	font-size: 30px;
+	font-family: Helvetica;
+	font:grey;
+	
+}
+
+h3{
+	background-color: yellow;
+}
+
+.container{
+	background-image: url("/Collage.jpg");
+
+	width: 100%;
+}
