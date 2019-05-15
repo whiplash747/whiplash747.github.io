@@ -3,6 +3,7 @@ body{
 	font-family: Helvetica;
 	font:grey;
 	
+	
 }
 
 h3{
@@ -13,4 +14,7 @@ h3{
 	background-image: url("/Collage.jpg");
 
 	width: 100%;
+}
+.Desc{
+	color: black;
 }
